@@ -3,10 +3,10 @@
 ## What I Practiced
 
 - I used `ls` to check that `notes-copy.txt` did not already exist.
-- I used `cp notes.txt notes-copy.txt` to crate a copy of `notes.txt`.
+- I used `cp notes.txt notes-copy.txt` to create a copy of `notes.txt`.
 - I used `ls` to confirm that both the original and copy existed.
 - I used `cat notes-copy.txt` to verify the copied contents.
-- I used `wc -c notes-copy.txt` to confirm that the copy was 40 bytes/same as originals size.
+- I used `wc -c notes-copy.txt` to confirm that the copy was 40 bytes, the same as original.
 
 ## What I Learned
 
