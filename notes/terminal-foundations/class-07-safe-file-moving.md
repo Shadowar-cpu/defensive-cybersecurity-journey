@@ -3,7 +3,7 @@
 ## What I Practised
 
 - I used `ls` to check that `notes-backup.txt` did not already exist.
-- I used `mv notes-copy.txt notes-backup.txt` to rename the copied file/.
+- I used `mv notes-copy.txt notes-backup.txt` to rename the copied file.
 - I used `cat notes-backup.txt` to verify that the renamed copy kept its contents.
 - I used `mkdir backups` to create a folder for backup files.
 - I used `mv notes-backup.txt backups` to move the renamed copy into the backups folder.
