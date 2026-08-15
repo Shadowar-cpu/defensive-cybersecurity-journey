@@ -9,7 +9,7 @@
 - I used `mv notes-backup.txt backups` to move the renamed copy into the backups folder.
 - I used `ls` and `ls backups` to confirm the file moved successfully.
 
-# What I Learned
+## What I Learned
 
 - `mv` means move.
 - When the destination is a new file name in the same folder, `mv` renames a file.
